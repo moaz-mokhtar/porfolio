@@ -1,0 +1,116 @@
+{
+    "about": [
+        "Rust Software Developer ( Rust programmer , dedicated Rust Developer , Rust Engineer ) whatever the title based in Egypt ",
+        "Started my career with Rust, although it is not easy in the Middle East to start with some new techs as an entry-level",
+        "Regularly, can help debug, maintain, and develop new features for Rust projects",
+        "Most of my experience with Rust has been on the backend, using tools such as Ubuntu, KVM, vscode, Nvim, Postgres, actix-web, Diesel, SQLx, and more",
+        "Committed to mastering Rust, I seek opportunities to excel in its ecosystem and contribute to its growth"
+    ],
+    "skills": [
+        "Backend Development",
+        "Debugging",
+        "Testing",
+        "API development",
+        "Maintenance"
+    ],
+    "tools": [
+        "Rust Programming Langauge",
+        "Actix",
+        "KVM",
+        "Git",
+        "Ubuntu",
+        "WebAssembly",
+        "Docker"
+    ],
+    "projects": [
+        {
+            "name": "License Management Server",
+            "description": [
+                "LMS system for my first Rust job @VA Computing Egypt",
+                "Invented a mock generator (mocking structs and enums for testing) for LMS stucts",
+                "Developed functions for bulk insertions",
+                "Testing LMS performance in localhost and EC2 instance"
+            ],
+            "technologies": [
+                "Rust",
+                "Actix",
+                "Diesel",
+                "PostgreSQL",
+                "SQLx",
+                "Docker"
+            ],
+            "start_date": "May-2021",
+            "end_date": "Apr-2022"
+        },
+        {
+            "name": "Nebbr",
+            "description": [
+                "An Indian app which allow users to offering services for neighborhood"
+            ],
+            "technologies": [
+                "Rust",
+                "Actix"
+            ],
+            "start_date": "2022",
+            "end_date": "2023"
+        },
+        {
+            "name": "Zinzen Scheduler",
+            "description": [
+                "Zinzen is a platform for planning user's purposes",
+                "I did participate in the calendar engine for the ZinZen web app",
+                "Debug, refactor, test, and develop new features with Rust"
+            ],
+            "technologies": [
+                "Rust"
+            ],
+            "links": [
+                "https://zinzen.me"
+            ],
+            "start_date": "Mar-2023",
+            "end_date": "Jul-2023"
+        },
+        {
+            "name": "Dar",
+            "description": [
+                "A software to manage a small educational institution in Egypt",
+                "Participation in back-end using Axum, Prisma, and PostgreSQL"
+            ],
+            "technologies": [
+                "Rust",
+                "Axum",
+                "Prisma",
+                "PostgreSQL"
+            ],
+            "start_date": "Mar-2023",
+            "end_date": "Jul-2023"
+        }
+    ],
+    "experiences": [
+        {
+            "title": "Rust Software Developer",
+            "company": "VA Computing Egypt",
+            "description": [
+                "Participate in the License Management Server system"
+            ]
+        },
+        {
+            "title": "Backend Software Developer",
+            "company": "Egyptian Medical Union",
+            "description": [
+                "Participate in the License Management Server system"
+            ]
+        },
+        {
+            "title": "Rust Software Developer",
+            "company": "self-employed",
+            "description": [
+                "Freelance Rust Software Developer",
+                "Debug, maintain, and develop new features",
+                "Mainly back-end software developer",
+                "Main stack is Actix, Diesel, Postgres, Docker",
+                "Rust training materials"
+            ]
+        }
+    ]
+}
